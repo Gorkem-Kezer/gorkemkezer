@@ -23,13 +23,6 @@
 
 ---
 
-## 🐞 Fun QA Touch  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250" alt="Bug fixing"/>
-</p>
-
----
 
 ## 📊 GitHub Stats  
 
